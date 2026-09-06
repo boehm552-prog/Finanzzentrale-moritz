@@ -1,0 +1,8 @@
+{
+  "name":"Finanzzentrale Moritz",
+  "short_name":"Finanzzentrale",
+  "start_url":".",
+  "display":"standalone",
+  "theme_color":"#0f172a",
+  "background_color":"#0f172a"
+}
